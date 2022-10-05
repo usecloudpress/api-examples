@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudpressApiSamples", "CloudpressApiSamples.csproj", "{D0F88B2D-CA4C-433A-BDBB-49BB5E15F4EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0F88B2D-CA4C-433A-BDBB-49BB5E15F4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F88B2D-CA4C-433A-BDBB-49BB5E15F4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F88B2D-CA4C-433A-BDBB-49BB5E15F4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F88B2D-CA4C-433A-BDBB-49BB5E15F4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
